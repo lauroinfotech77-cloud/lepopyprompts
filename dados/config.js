@@ -3,7 +3,7 @@ window.LOJA_CONFIG={
  "set": {
   "name": "Lepopy Prompts",
   "tag": "Inspire · Crie · Inove",
-  "title": "100 prompts criativos com IA para o seu tipo de negócio",
+  "title": "Prompts criativos com IA para o seu tipo de negócio",
   "text": "Escolha a categoria, compre pelo Eduzz e comece a criar hoje mesmo.",
   "btn": "Comprar agora",
   "cur": "R$",
