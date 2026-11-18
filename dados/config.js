@@ -1,5 +1,5 @@
 window.LOJA_CONFIG={
- "t": 1794955711419,
+ "t": 1794999999999,
  "set": {
   "name": "Lepopy Prompts",
   "tag": "Inspire · Crie · Inove",
@@ -17,6 +17,17 @@ window.LOJA_CONFIG={
   "h": "0345fbb39ad48b5a1307cda41c2eff385069a97ba9a81a4ebb3c9fc4672d3712"
  },
  "cats": [
+  {
+   "id": "c8",
+   "n": "Combo Completo Lepopy: coleção com 50 categorias",
+   "d": "Promoção especial: a coleção completa com 5.000 prompts prontos, em 50 categorias e 7 áreas (educação, comércio, gastronomia, beleza, autônomos, imóveis/automotivo e serviços), em um único combo.",
+   "p": "50,00",
+   "o": "245,00",
+   "k": "5.000",
+   "img": "8.jpeg",
+   "l": "https://chk.eduzz.com/u7omerxr",
+   "on": 1
+  },
   {
    "id": "c1",
    "n": "Educação e Formação",
